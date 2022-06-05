@@ -1,5 +1,11 @@
 # I-VOID-WARRANTIES-LOGOS
 
+# MCH2022 design (LGBTI)
+|Filename
+|---
+|I VOID WARRANTIES FOR A LIVING (bitmap) - MCH2022.png
+|I VOID WARRANTIES FOR A LIVING (vector) - MCH2022.svg
+
 # Square design
 |Filename
 |---
