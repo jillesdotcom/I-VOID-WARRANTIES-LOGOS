@@ -5,6 +5,8 @@
 |---
 |I VOID WARRANTIES FOR A LIVING (bitmap) - MCH2022.png
 |I VOID WARRANTIES FOR A LIVING (vector) - MCH2022.svg
+|I VOID WARRANTIES WITH PRIDE (bitmap) - MCH2022.png
+|I VOID WARRANTIES WITH PRIDE (vector) - MCH2022.svg
 
 # Square design
 |Filename
