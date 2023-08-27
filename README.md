@@ -1,5 +1,11 @@
 # I-VOID-WARRANTIES-LOGOS
 
+# HWIO design (LGBTI + URL instead of twitter handle)
+|Filename
+|---
+|I VOID WARRANTIES FOR A LIVING (bitmap) - HWIO.png
+|I VOID WARRANTIES FOR A LIVING (vector) - HWIO.svg
+
 # MCH2022 design (LGBTI)
 |Filename
 |---
